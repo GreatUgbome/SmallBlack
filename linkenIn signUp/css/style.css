@@ -1,0 +1,100 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    font-size: 22px;
+    font-family: sans-serif;
+    font-style: normal;
+    text-underline-offset: none;
+    text-decoration: none;
+}
+.div1 div h2{
+    padding:15px;
+    color: rgb(40, 80, 226);
+
+}
+section .sect1{
+    display: flex;
+    border: 2px solid white;
+    margin-left: 35%;
+    margin-right: 30%;
+    height: 90vh;
+    width: 25%;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 20px 10px whitesmoke;
+    overflow: hidden;
+   
+}
+.sect1 #div1 div{
+    /* border: 2px solid red;  */
+    padding: 15px 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.sect1 #div1 #div2 > div p{
+    font-size: small;
+    font-style: normal;
+
+}
+.sect1 #div1 #div2 > div input{
+    padding: 10px;
+    width: 100%;
+}
+.sect1 #div2 #para1 a{
+    
+    color: rgb(40, 124, 226);
+    padding: 10px;
+}
+#div2 div > button{
+    color: white;
+    background-color: rgb(40, 102, 226);
+    width: 100%;
+    padding: 10px;
+    border-radius: 25px;
+
+}
+section .div2 p{
+    font-size: small;
+}
+section .div2 p a{
+    font-size: medium;
+}
+section .div3{
+    font-size: small;
+    width: 100%;
+    align-items: center;
+
+}
+section .div3 button{
+    font-size: small;
+    width: 100%;
+    align-items: center;
+    border: 2px solid;
+    border-radius: 30px;
+    margin-bottom: 5px;
+    font-size: small;
+}
+#section2{
+    
+    text-align: center;
+    padding: 10px;
+}
+section .div4{
+    padding: 5px;
+    margin-top: 20px;
+    font-size: medium;
+    margin-bottom: 20px;
+}
+section .div5 footer span{
+    text-align: center;
+    text-decoration: none;
+    font-size: small;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+footer{
+    /* border: 2px solid; */
+    margin-bottom: 10px;
+
+}

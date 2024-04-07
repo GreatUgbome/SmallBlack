@@ -1,0 +1,17 @@
+header{
+    z-index: 100000;
+}
+.section1{
+    padding-top: 75px;
+}
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+.articleheader h3{
+    text-align: center;
+}
+.articleheader p{
+    text-align: center;
+}
